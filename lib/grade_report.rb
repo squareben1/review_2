@@ -1,5 +1,5 @@
 class GradeReportClass
   def grade_report(string)
-    "Green"
+    "Green: 1"
   end
 end
